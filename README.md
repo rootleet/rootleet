@@ -1,6 +1,6 @@
 <a href="#" target="_blank">![alt text](res/main.png)</a>
 
-<p align="center">I am reza and am enthusiastic about anything technology. Subscript to my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> where we can share ideas 🎥</p>
+<p align="center">I am reza, i love to shave my hair by myself, and am enthusiastic about anything technology. Subscript to my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> where we can share ideas 🎥. Follow me on <a href="https://twitter.com/nifty_xenodochi">Twitter</a> as we grow a network</p>
 
 <p align="center">
   <a href="https://twitter.com/nifty_xenodochi">
@@ -10,6 +10,20 @@
     <img src="https://img.shields.io/youtube/channel/subscribers/UC4yFy0FuVlOg9jeOOPnhfuQ?style=for-the-badge&logo=youtube&label=Youtube&color=red" alt="Eddie Jaoude's YouTube channel"/>
   </a>
 </p>
+
+## BIO
+<p>
+Over the past years, i have been learning and contributing to personal and not personal projects, this has made me learn new technologies and also new approaches to solve problems using technology.
+</p>
+<p>I have studied from a couple of free sources and that has helped me with my growth. I have adapted knowledge of web development, from front end to backend.</p>
+
+<p>Over the years, i have built personal projects, deployed static and dynamic websites for individuals and organizations. Projects have been categorized in a table below that shows recent projetcs</p>
+
+[//]: # (<p align="center">)
+
+[//]: # (Talk is cheap. Show me the plan. Docker Geek | Networking | Linux | PHP Developer | Python Coffee junkie | Internet nerd | Devoted problem solver | Everything Technology)
+
+[//]: # (</p>)
 
 ---
 
@@ -26,7 +40,7 @@
 
 ### RECENT PROJECTS
 
-<table>
+<table id="public">
   <tr>
     <th>Title</th>
     <th>Tools</th>
@@ -39,4 +53,17 @@
     <td>A website for a travel and tours organization using django</td>
     <td><a href="https://github.com/lisadelgh/django">REPOSITORY</a> / <a href="https://www.lisadeltravelandtours.com">LIVE PREVIEW</a></td>
   </tr>
+    <tr>
+        <td>Sneda Motors  </td>
+        <td>PHP,MySQL,HTML,CSS,JS,BOOTSTRAP,JQUERY</td>
+        <td>Website for a car sales and servicing company</td>
+        <td><a href="https://www.snedamotors.com">REPOSITORY</a> / <a href="https://www.snedamotors.com">LIVE PREVIEW</a></td>
+      </tr>
+    <tr>
+        <td>Ocean  </td>
+        <td>PYTHON,DJANGO,MySQL,HTML,CSS,JS,BOOTSTRAP,JQUERY</td>
+        <td>An organizational web app to make issues logged, assign issues, manage inventory. This is good for an IT organization</td>
+        <td><a href="https://github.com/snedagh/ocean">REPOSITORY</a></td>
+    </tr>
 </table>
+
