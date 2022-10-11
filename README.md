@@ -65,5 +65,22 @@ Over the past years, i have been learning and contributing to personal and not p
         <td>An organizational web app to make issues logged, assign issues, manage inventory. This is good for an IT organization</td>
         <td><a href="https://github.com/snedagh/ocean">REPOSITORY</a></td>
     </tr>
+    <tr>
+        <td>Web Crawler  </td>
+        <td>Python, Mysql</td>
+        <td>A python web crawler that crawls a website and pick specific details required</td>
+        <td><a href="https://github.com/rootleet/web_crawler">REPOSITORY</a></td>
+    </tr>
+    <tr>
+        <td>SMHOS  </td>
+        <td>PHP, MySQL, HTML, CSS, BOOTSTRAP JQYERY</td>
+        <td>A Point of sale built with PHP</td>
+        <td><a href="https://github.com/rootech-inc/inbentory_cli">REPOSITORY</a></td>
+    </tr>
+    <tr>
+        <td>SMARK DESK</td>
+        <td>PHP, MySQL, HTML, CSS, BOOTSTRAP JQYERY</td>
+        <td>An organizational web app with custom tools</td>
+    </tr>
 </table>
 
