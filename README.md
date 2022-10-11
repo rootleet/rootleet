@@ -37,6 +37,6 @@
     <td>Lisadel Travel And Tours Website  </td>
     <td>Python,Django,HTML,CSS,JS,BOOTSTRAP,JQUERY</td>
     <td>A website for a travel and tours organization using django</td>
-    <td><a href="www.lisadeltravelandtours.com">REPOSITORY</a> / <a href="www.lisadeltravelandtours.com">LIVE PREVIEW</a></td>
+    <td><a href="https://github.com/lisadelgh/django">REPOSITORY</a> / <a href="https://www.lisadeltravelandtours.com">LIVE PREVIEW</a></td>
   </tr>
 </table>
