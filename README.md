@@ -1,13 +1,13 @@
 <a href="#" target="_blank">![alt text](res/main.png)</a>
 
-<p align="center">I am reza, i love to shave my hair by myself, and am enthusiastic about anything technology. Subscript to my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> where we can share ideas 🎥. Follow me on <a href="https://twitter.com/nifty_xenodochi">Twitter</a> as we grow a network</p>
+<p align="center">I am reza, i love to shave my hair by myself, and am enthusiastic about anything technology. Subscript to my <a href="https://www.youtube.com/channel/UC4yFy0FuVlOg9jeOOPnhfuQ">YouTube channel</a> where we can share ideas 🎥. Follow me on <a href="https://twitter.com/nifty_xenodochi">Twitter</a> as we grow a network</p>
 
 <p align="center">
   <a href="https://twitter.com/nifty_xenodochi">
-    <img src="https://img.shields.io/twitter/follow/nifty_xenodochi?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Eddie Jaoude's Twitter"/>
+    <img src="https://img.shields.io/twitter/follow/nifty_xenodochi?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="rootleet's Twitter"/>
   </a>
   <a href="https://www.youtube.com/channel/UC4yFy0FuVlOg9jeOOPnhfuQ">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC4yFy0FuVlOg9jeOOPnhfuQ?style=for-the-badge&logo=youtube&label=Youtube&color=red" alt="Eddie Jaoude's YouTube channel"/>
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC4yFy0FuVlOg9jeOOPnhfuQ?style=for-the-badge&logo=youtube&label=Youtube&color=red" alt="Rootech YouTube channel"/>
   </a>
 </p>
 
