@@ -17,7 +17,19 @@ Over the past years, i have been learning and contributing to personal and not p
 </p>
 <p>I have studied from a couple of free sources and that has helped me with my growth. I have adapted knowledge of web development, from front end to backend.</p>
 
-<p>Over the years, i have built personal projects, deployed static and dynamic websites for individuals and organizations. Projects have been categorized in a table below that shows recent projetcs</p>
+<p>Over the years, i have built personal projects, deployed static and dynamic websites for individuals and organizations. Projects have been categorized in a table below that shows recent projects</p>
+
+#### Focus
+<p>My focus now is to grow indept knowledge in technology in general, and specifically, be comfortable programing in various forms</p>
+
+#### Comfortability
+<p>
+Currency, am comfortable and flexible with web development. My core includes developing a webapp using PHP as backend or Python. I have transformed from a 
+procedure developer to an object-oriented approach. 
+</p>
+<p>
+I enjot to use frameworks, they make working flexible, easy and secured in a sense, but I enjoy much more when i make my frames from scratch, as a self-taught developers? I'm understanding building from scratch is how you discover component of popular frameworks
+</p>
 
 [//]: # (<p align="center">)
 
