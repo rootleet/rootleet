@@ -11,6 +11,11 @@
   </a>
 </p>
 
+
+[![@henrychase's Holopin board](https://holopin.me/henrychase)](https://holopin.io/@henrychase)
+
+
+
 ## BIO
 <p>
 Over the past years, i have been learning and contributing to personal and not personal projects, this has made me learn new technologies and also new approaches to solve problems using technology.
