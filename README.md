@@ -12,7 +12,8 @@
 </p>
 
 
-[![@henrychase's Holopin board](https://holopin.me/henrychase)](https://holopin.io/@henrychase)
+[![@rootleet's Holopin board](https://holopin.me/rootleet)](https://holopin.io/@rootleet)
+
 
 
 
@@ -29,8 +30,8 @@ Over the past years, i have been learning and contributing to personal and not p
 
 #### Comfortability
 <p>
-Currency, am comfortable and flexible with web development. My core includes developing a webapp using PHP as backend or Python. I have transformed from a 
-procedure developer to an object-oriented approach. 
+Currency, am comfortable and flexible with web development. My core includes developing a webapp using PHP as backend or Python. I have transformed from a
+procedure developer to an object-oriented approach.
 </p>
 <p>
 I enjot to use frameworks, they make working flexible, easy and secured in a sense, but I enjoy much more when i make my frames from scratch, as a self-taught developers? I'm understanding building from scratch is how you discover component of popular frameworks
@@ -101,4 +102,3 @@ I enjot to use frameworks, they make working flexible, easy and secured in a sen
         <td><a href="https://github.com/snedagh/smdesk">REPOSITORY</a></td>
     </tr>
 </table>
-
