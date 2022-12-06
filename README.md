@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://twitter.com/uyinsolomon">
-    <img src="https://img.shields.io/twitter/follow/nifty_xenodochi?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="rootleet's Twitter"/>
+    <img src="https://img.shields.io/twitter/follow/uyinsolomon?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="rootleet's Twitter"/>
   </a>
   <a href="https://www.youtube.com/channel/UC4yFy0FuVlOg9jeOOPnhfuQ">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC4yFy0FuVlOg9jeOOPnhfuQ?style=for-the-badge&logo=youtube&label=Youtube&color=red" alt="Rootech YouTube channel"/>
