@@ -1,6 +1,6 @@
 <a href="#" target="_blank">![alt text](res/main.png)</a>
 
-<p align="center">I am reza, i love to shave my hair by myself, and am enthusiastic about anything technology. Subscript to my <a href="https://www.youtube.com/channel/UC4yFy0FuVlOg9jeOOPnhfuQ">YouTube channel</a> where we can share ideas 🎥. Follow me on <a href="https://twitter.com/nifty_xenodochi">Twitter</a> as we grow a network</p>
+<p align="center">I am reza, i love to shave my hair by myself, and am enthusiastic about anything technology. Subscript to my <a href="https://www.youtube.com/channel/UC4yFy0FuVlOg9jeOOPnhfuQ">YouTube channel</a> where we can share ideas 🎥. Follow me on <a href="https://twitter.com/nifty_xenodochi">Twitter</a> as we grow a network</p> 
 
 <p align="center">
   <a href="https://twitter.com/uyinsolomon">
