@@ -64,6 +64,7 @@ I enjot to use frameworks, they make working flexible, easy and secured in a sen
     <th>Tools</th>
     <th>Description</th>
     <th>Repository</th>
+    <th>ISSUES</th>
   </tr>
   <tr>
     <td>Lisadel Travel And Tours Website  </td>
@@ -82,6 +83,7 @@ I enjot to use frameworks, they make working flexible, easy and secured in a sen
         <td>PYTHON,DJANGO,MySQL,HTML,CSS,JS,BOOTSTRAP,JQUERY</td>
         <td>An organizational web app to make issues logged, assign issues, manage inventory. This is good for an IT organization</td>
         <td><a href="https://github.com/snedagh/ocean">REPOSITORY</a></td>
+        <td><img src='https://img.shields.io/github/issues/rootleet/ocean'></td>
     </tr>
     <tr>
         <td>Web Crawler  </td>
