@@ -71,14 +71,12 @@ I enjot to use frameworks, they make working flexible, easy and secured in a sen
     <td>Python,Django,HTML,CSS,JS,BOOTSTRAP,JQUERY</td>
     <td>A website for a travel and tours organization using django</td>
     <td><a href="https://github.com/lisadelgh/django">REPOSITORY</a> / <a href="https://www.lisadeltravelandtours.com">LIVE PREVIEW</a></td>
-    <td><img src='https://img.shields.io/github/issues/lisadelgh/django?color=red&style=flat-square'></td>
   </tr>
     <tr>
         <td>Sneda Motors  </td>
         <td>PHP,MySQL,HTML,CSS,JS,BOOTSTRAP,JQUERY</td>
         <td>Website for a car sales and servicing company</td>
         <td><a href="https://www.snedamotors.com">REPOSITORY</a> / <a href="https://www.snedamotors.com">LIVE PREVIEW</a></td>
-        <td><img src='https://img.shields.io/github/issues/rootleet/ocean?color=red&style=flat-square'></td>
       </tr>
     <tr>
         <td>Ocean  </td>
@@ -92,20 +90,17 @@ I enjot to use frameworks, they make working flexible, easy and secured in a sen
         <td>Python, Mysql</td>
         <td>A python web crawler that crawls a website and pick specific details required</td>
         <td><a href="https://github.com/rootleet/web_crawler">REPOSITORY</a></td>
-        <td><img src='https://img.shields.io/github/issues/rootleet/ocean?color=red&style=flat-square'></td>
     </tr>
     <tr>
         <td>SMHOS  </td>
         <td>PHP, MySQL, HTML, CSS, BOOTSTRAP JQYERY</td>
         <td>A Point of sale built with PHP</td>
         <td><a href="https://github.com/rootech-inc/inbentory_cli">REPOSITORY</a></td>
-        <td><img src='https://img.shields.io/github/issues/rootleet/ocean?color=red&style=flat-square'></td>
     </tr>
     <tr>
         <td>SMARK DESK</td>
         <td>PHP, MySQL, HTML, CSS, BOOTSTRAP JQYERY</td>
         <td>An organizational web app with custom tools</td>
         <td><a href="https://github.com/snedagh/smdesk">REPOSITORY</a></td>
-        <td><img src='https://img.shields.io/github/issues/rootleet/ocean?color=red&style=flat-square'></td>
     </tr>
 </table>
