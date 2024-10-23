@@ -1,10 +1,10 @@
 <a href="#" target="_blank">![alt text](res/main.png)</a>
 
-<p align="center">I am reza, i love to shave my hair by myself, and am enthusiastic about anything technology. Subscript to my <a href="https://www.youtube.com/channel/UC4yFy0FuVlOg9jeOOPnhfuQ">YouTube channel</a> where we can share ideas 🎥. Follow me on <a href="https://twitter.com/nifty_xenodochi">Twitter</a> as we grow a network</p> 
+<p align="center">I am reza, i love to shave my hair by myself, and am enthusiastic about anything technology. Visit my by the way <a href="https://www.youtube.com/channel/UC4yFy0FuVlOg9jeOOPnhfuQ">YouTube channel</a> where we can share ideas 🎥. Follow me on <a href="https://x.com/uyin___">Twitter</a> as we grow a network</p> 
 
 <p align="center">
   <a href="https://twitter.com/uyinsolomon">
-    <img src="https://img.shields.io/twitter/follow/uyinsolomon?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="rootleet's Twitter"/>
+    <img src="https://img.shields.io/twitter/follow/uyin___?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="rootleet's Twitter"/>
   </a>
   <a href="https://www.youtube.com/channel/UC4yFy0FuVlOg9jeOOPnhfuQ">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC4yFy0FuVlOg9jeOOPnhfuQ?style=for-the-badge&logo=youtube&label=Youtube&color=red" alt="Rootech YouTube channel"/>
@@ -34,7 +34,7 @@ Currency, am comfortable and flexible with web development. My core includes dev
 procedure developer to an object-oriented approach.
 </p>
 <p>
-I enjot to use frameworks, they make working flexible, easy and secured in a sense, but I enjoy much more when i make my frames from scratch, as a self-taught developers? I'm understanding building from scratch is how you discover component of popular frameworks
+I enjoy to use frameworks, they make working flexible, easy and secure in a sense, but I enjoy much more when i make my frames from scratch, as a self-taught developers? I'm understanding building from scratch is how you discover component of popular frameworks
 </p>
 
 [//]: # (<p align="center">)
@@ -92,7 +92,7 @@ I enjot to use frameworks, they make working flexible, easy and secured in a sen
         <td><a href="https://github.com/rootleet/web_crawler">REPOSITORY</a></td>
     </tr>
     <tr>
-        <td>SMHOS  </td>
+        <td>VENTA  </td>
         <td>PHP, MySQL, HTML, CSS, BOOTSTRAP JQYERY</td>
         <td>A Point of sale built with PHP</td>
         <td><a href="https://github.com/rootech-inc/inbentory_cli">REPOSITORY</a></td>
