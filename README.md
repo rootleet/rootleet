@@ -1,51 +1,66 @@
-<a href="#" target="_blank">![alt text](res/main.png)</a>
+<!-- HEADER -->
+<p align="center">
+  <img src="res/main.png" alt="Banner" width="80%">
+</p>
 
-<p align="center">I am reza, ✨ Code Magician | Tech Troubleshooter | Transforming challenges into seamless solutions. Let's innovate together! 💻🔮. Visit my by the way <a href="https://www.youtube.com/channel/UC4yFy0FuVlOg9jeOOPnhfuQ">YouTube channel</a> where we can share ideas 🎥. Follow me on <a href="https://x.com/uyin___">Twitter</a> as we grow a network</p> 
+<h1 align="center">👋 Hey, I'm <b>Uyin Solomon</b> (rootleet)</h1>
 
 <p align="center">
-  <a href="https://twitter.com/uyinsolomon">
-    <img src="https://img.shields.io/twitter/follow/uyin___?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="rootleet's Twitter"/>
+  <b>Software Engineer | IT Manager | Systems Builder</b><br>
+  Building products that power businesses and scale with them 🚀
+</p>
+
+<p align="center">
+  <a href="https://x.com/uyin___">
+    <img src="https://img.shields.io/twitter/follow/uyin___?label=Follow&style=for-the-badge&logo=twitter&color=1DA1F2" />
   </a>
   <a href="https://www.youtube.com/channel/UC4yFy0FuVlOg9jeOOPnhfuQ">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC4yFy0FuVlOg9jeOOPnhfuQ?style=for-the-badge&logo=youtube&label=Youtube&color=red" alt="Rootech YouTube channel"/>
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC4yFy0FuVlOg9jeOOPnhfuQ?style=for-the-badge&logo=youtube&label=YouTube&color=FF0000" />
+  </a>
+  <a href="https://holopin.io/@rootleet">
+    <img src="https://img.shields.io/badge/holopin-badges-blue?style=for-the-badge&logo=hackthebox&logoColor=white" />
   </a>
 </p>
-
-
-[![@rootleet's Holopin board](https://holopin.me/rootleet)](https://holopin.io/@rootleet)
-
-
-
-
-## BIO
-<p>
-Over the past years, i have been learning and contributing to personal and not personal projects, this has made me learn new technologies and also new approaches to solve problems using technology.
-</p>
-<p>I have studied from a couple of free sources and that has helped me with my growth. I have adapted knowledge of web development, from front end to backend.</p>
-
-<p>Over the years, i have built personal projects, deployed static and dynamic websites for individuals and organizations. Projects have been categorized in a table below that shows recent projects</p>
-
-#### Focus
-<p>My focus now is to grow indept knowledge in technology in general, and specifically, be comfortable programing in various forms</p>
-
-#### Comfortability
-<p>
-Currency, am comfortable and flexible with web development. My core includes developing a webapp using PHP as backend or Python. I have transformed from a
-procedure developer to an object-oriented approach.
-</p>
-<p>
-I enjoy to use frameworks, they make working flexible, easy and secure in a sense, but I enjoy much more when i make my frames from scratch, as a self-taught developers? I'm understanding building from scratch is how you discover component of popular frameworks
-</p>
-
-[//]: # (<p align="center">)
-
-[//]: # (Talk is cheap. Show me the plan. Docker Geek | Networking | Linux | PHP Developer | Python Coffee junkie | Internet nerd | Devoted problem solver | Everything Technology)
-
-[//]: # (</p>)
 
 ---
 
-### Latest YouTube videos
+## 💡 About Me
+
+I am a **software engineer and IT manager** who loves creating technology that solves real business problems.  
+Through **Rootech IT Solutions**, I’ve delivered **production-ready POS systems, delivery apps, and business automation tools** for clients and my own ventures.  
+
+I specialize in:
+- 🖥️ **VENTA POS** – Retail & restaurant point of sale system  
+- 📦 **VGO** – Food & grocery delivery platform  
+- 🎯 **Perks** – Loyalty & rewards program for businesses  
+- 🏢 **Ocean** – Issue tracking & organizational IT management system  
+
+I focus on building **secure, maintainable, and scalable systems** — from the backend all the way to deployment on production servers.
+
+---
+
+## ⚙️ Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,python,django,html,css,js,bootstrap,mysql,git,linux,docker,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Work
+
+| Project | Stack | What It Does | Links |
+|--------|--------|-------------|-------|
+| **VENTA POS** | PHP • MySQL • Bootstrap | End-to-end Point of Sale powering retail & restaurants | [Repo](https://github.com/rootech-inc/inbentory_cli) |
+| **Ocean** | Django • MySQL • Bootstrap | Logs issues, assigns tasks & manages inventory for IT teams | [Repo](https://github.com/snedagh/ocean) <img src='https://img.shields.io/github/issues/rootleet/ocean?color=red&style=flat-square'> |
+| **Lisadel Travel & Tours** | Django • Bootstrap | Corporate travel agency website | [Repo](https://github.com/lisadelgh/django) / [Live](https://www.lisadeltravelandtours.com) |
+| **Sneda Motors** | PHP • MySQL | Official car sales & service company website | [Live](https://www.snedamotors.com) |
+| **Web Crawler** | Python • MySQL | Custom crawler to extract data from websites | [Repo](https://github.com/rootleet/web_crawler) |
+| **Smart Desk** | PHP • MySQL • Bootstrap | Custom tools & dashboard for internal operations | [Repo](https://github.com/snedagh/smdesk) |
+
+---
+
+## 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [HACKING | RUN LINUX ON WINDOWS WITHOUT ANY THIRD-PARTY TOOL](https://www.youtube.com/watch?v=atd-T4v9kVA)
@@ -56,63 +71,19 @@ I enjoy to use frameworks, they make working flexible, easy and secure in a sens
 
 ---
 
-### RECENT PROJECTS
+## 📊 GitHub Stats
 
-<table id="public">
-  <tr>
-    <th>Title</th>
-    <th>Tools</th>
-    <th>Description</th>
-    <th>Repository</th>
-    <th>ISSUES</th>
-  </tr>
-  <tr>
-    <td>Lisadel Travel And Tours Website  </td>
-    <td>Python,Django,HTML,CSS,JS,BOOTSTRAP,JQUERY</td>
-    <td>A website for a travel and tours organization using django</td>
-    <td><a href="https://github.com/lisadelgh/django">REPOSITORY</a> / <a href="https://www.lisadeltravelandtours.com">LIVE PREVIEW</a></td>
-  </tr>
-    <tr>
-        <td>Sneda Motors  </td>
-        <td>PHP,MySQL,HTML,CSS,JS,BOOTSTRAP,JQUERY</td>
-        <td>Website for a car sales and servicing company</td>
-        <td><a href="https://www.snedamotors.com">REPOSITORY</a> / <a href="https://www.snedamotors.com">LIVE PREVIEW</a></td>
-      </tr>
-    <tr>
-        <td>Ocean  </td>
-        <td>PYTHON,DJANGO,MySQL,HTML,CSS,JS,BOOTSTRAP,JQUERY</td>
-        <td>An organizational web app to make issues logged, assign issues, manage inventory. This is good for an IT organization</td>
-        <td><a href="https://github.com/snedagh/ocean">REPOSITORY</a></td>
-        <td><img src='https://img.shields.io/github/issues/rootleet/ocean?color=red&style=flat-square'></td>
-    </tr>
-    <tr>
-        <td>Web Crawler  </td>
-        <td>Python, Mysql</td>
-        <td>A python web crawler that crawls a website and pick specific details required</td>
-        <td><a href="https://github.com/rootleet/web_crawler">REPOSITORY</a></td>
-    </tr>
-    <tr>
-        <td>VENTA  </td>
-        <td>PHP, MySQL, HTML, CSS, BOOTSTRAP JQYERY</td>
-        <td>A Point of sale built with PHP</td>
-        <td><a href="https://github.com/rootech-inc/inbentory_cli">REPOSITORY</a></td>
-    </tr>
-    <tr>
-        <td>SMARK DESK</td>
-        <td>PHP, MySQL, HTML, CSS, BOOTSTRAP JQYERY</td>
-        <td>An organizational web app with custom tools</td>
-        <td><a href="https://github.com/snedagh/smdesk">REPOSITORY</a></td>
-    </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rootleet&show_icons=true&count_private=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootleet&layout=compact&theme=tokyonight" height="165">
+</p>
 
-<b>MY STATS</b>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rootleet&theme=tokyonight&hide_border=true" />
+</p>
 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootleet&layout=compact)](https://github.com/rootleet/github-readme-stats)
-
-<a href='https://github.com/rootleet'> <img src='https://github-readme-stats.vercel.app/api?username=rootleet&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true'> </a>
-
-
-
-
-<a href='https://github.com/rootleet'> <img src='https://github-readme-streak-stats.herokuapp.com/?user=rootleet&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true'> </a>
+<p align="center">
+  <i>“Talk is cheap. Show me the code.” – Linus Torvalds</i>
+</p>
