@@ -22,6 +22,7 @@ I am a **Full-Stack Developer and IT Entrepreneur** with a proven track record o
 
 ---
 
+
 ## 💼 Work Experience
 
 ### **Founder & Lead Architect | Rootech IT Solutions**
@@ -35,6 +36,25 @@ I am a **Full-Stack Developer and IT Entrepreneur** with a proven track record o
 * **Ocean System:** Built a custom Django-based issue tracking and inventory management system for the IT and workshop teams.
 * **Infrastructure:** Overseeing network security, server administration (Debian/Windows), and digital transformation for car sales and service departments.
 * **Social Media Management:** Leading digital strategy for Sneda Shopping Center and Sneda Smart Meters.
+
+---
+
+
+
+## 🚀 Flagship Product: VENTA ECO Suite
+*A comprehensive retail ecosystem engineered to thrive in African market conditions.*
+
+### 📊 **Venta Hub** The **Central Command** for business owners. A high-security dashboard providing real-time sales analytics and synchronized stock monitoring across multiple branches.
+> **Tech:** PHP (Native), MySQL, Bank-level Data Encryption, API Integration.
+
+### 🛒 **Venta POS** A high-performance **Point of Sale** terminal designed for pharmacies, restaurants, and retail. Features an "Offline-First" architecture to ensure business continuity during internet outages.
+> **Tech:** PHP, JavaScript, Bootstrap, Local Storage Sync.
+
+### 📱 **VenGo** The **E-commerce Bridge**. An automated catalog system that integrates directly with WhatsApp, allowing customers to browse live inventory and place orders without human intervention.
+> **Tech:** Python, Django, WhatsApp Business API, Real-time Inventory Mapping.
+
+### 💎 **Beneficious** A **Loyalty & Rewards Engine** that automates customer retention through tiered points systems and personalized discount logic based on purchase history.
+> **Tech:** MySQL Analytics, Django Logic, Automated Notification Systems.
 
 ---
 
@@ -65,15 +85,6 @@ I am a **Full-Stack Developer and IT Entrepreneur** with a proven track record o
 
 ### **Emerging Tech**
 * **Local AI:** Deploying Large Language Models (LLMs) locally via Ollama/Llama 3.2 for private business processing.
-
----
-
-## 🎓 Education & Certifications
-* **IPMC Ghana:** * Microsoft Certified Systems Engineer (MCSE)
-    * Cisco Certified (CCNA levels)
-    * Linux Administration & Exchange Server
-    * N+ Networking & C++ Programming
-* **NCC Education:** Level 4 Diploma (2014)
 
 ---
 
